@@ -62,4 +62,3 @@ int main() {
 | Linkedin      | [Ссылка](https://markdownlivepreview.com/)        |3 часа     |
 | WhatsApp      | [Ссылка](https://ru.hexlet.io/blog/posts/markdown)|30 минут   |
 | Telegram      | [Ссылка](https://stepik.org/learn)                |5 минут    |
-
