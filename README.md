@@ -1,5 +1,6 @@
 # stepik-id-printer 
 
+![Image](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
 
 Это
 проект для вывода моего персонального идентификатора на образовательной платформе stepla.org .
@@ -62,4 +63,6 @@ int main() {
 | WhatsApp      | [Ссылка](https://ru.hexlet.io/blog/posts/markdown)|30 минут   |
 | Telegram      | [Ссылка](https://stepik.org/learn)                |5 минут    |
 
+
 > скрипт username.sh выводит имя
+
